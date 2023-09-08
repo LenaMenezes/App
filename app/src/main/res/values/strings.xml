@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App_Sustentabilidade</string>
+    <string name="projeto_eco_sage">Projeto Eco Sage conheça como funciona nosso projeto</string>
+    <string name="Localização">Botão de Localização</string>
+    <string name="Reciclagem">Botão de Reciclar</string>
+    <string name="SobreEco">Escrever sobre oprojeto</string>
+    <string name="inicio">Botão de Inicio</string>
+    <string name="Login">Botão Login do usuário</string>
+    <string name="imgLogo">ver logo</string>
+</resources>
